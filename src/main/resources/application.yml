@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: sample-gateway
+server:
+  port: 8090
